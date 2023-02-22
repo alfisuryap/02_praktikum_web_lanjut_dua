@@ -11,8 +11,7 @@ class PageController extends Controller
     }
 
     public function about(){
-        echo "Alfi Surya Pratama \n";
-        echo "2141720075 \n";
+        echo "Alfi Surya Pratama || 2141720075";
     }
 
     public function articles($id) {
